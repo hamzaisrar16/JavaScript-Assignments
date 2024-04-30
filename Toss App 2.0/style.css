@@ -1,0 +1,28 @@
+*{
+    margin: auto;
+    padding:0 ;
+    box-sizing: border-box;
+
+
+
+}
+
+body {
+
+    background-color: rgb(138, 165, 42);
+}
+.head{
+     margin-right:35px ;
+    text-align: center;
+}
+
+.btn-01{
+    
+    margin-top: 60px;
+    margin-left: 700px;
+    gap: 15px;;
+}
+
+.head{
+    color: aliceblue;
+}
